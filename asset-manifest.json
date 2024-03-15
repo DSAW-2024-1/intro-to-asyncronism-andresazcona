@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/intro-to-asyncronism-andresazcona/static/css/main.dd7c3c65.css",
+    "main.js": "/intro-to-asyncronism-andresazcona/static/js/main.a2422c36.js",
+    "static/js/453.050414e1.chunk.js": "/intro-to-asyncronism-andresazcona/static/js/453.050414e1.chunk.js",
+    "static/media/city_background.png": "/intro-to-asyncronism-andresazcona/static/media/city_background.bf536dda21a9eb40295a.png",
+    "static/media/Abe_Simpson.png": "/intro-to-asyncronism-andresazcona/static/media/Abe_Simpson.c0a2960f83e3542c8d50.png",
+    "static/media/Ralph_Wiggum.png": "/intro-to-asyncronism-andresazcona/static/media/Ralph_Wiggum.00b084c44bf4a2229360.png",
+    "static/media/GroundskeeperWillie.png": "/intro-to-asyncronism-andresazcona/static/media/GroundskeeperWillie.eb630fa15eae77e94c27.png",
+    "static/media/Nelson_Muntz.png": "/intro-to-asyncronism-andresazcona/static/media/Nelson_Muntz.7725ea6c5e33f26ff77b.png",
+    "static/media/Principal_Skinner.png": "/intro-to-asyncronism-andresazcona/static/media/Principal_Skinner.64c2dfa17e75e7e64de9.png",
+    "static/media/simpsons_logo.svg": "/intro-to-asyncronism-andresazcona/static/media/simpsons_logo.0479e37a9098564c8b7c7627353c1790.svg",
+    "static/media/Chief_Wiggum.webp": "/intro-to-asyncronism-andresazcona/static/media/Chief_Wiggum.f3bba260e1de975bcc00.webp",
+    "static/media/Lisa_Simpson.png": "/intro-to-asyncronism-andresazcona/static/media/Lisa_Simpson.1a47d1de37e523b7350f.png",
+    "static/media/Troy_McClure.webp": "/intro-to-asyncronism-andresazcona/static/media/Troy_McClure.9407f18701321c78f6cb.webp",
+    "static/media/Moe_Szyslak.png": "/intro-to-asyncronism-andresazcona/static/media/Moe_Szyslak.b264adc7ef4d590a9684.png",
+    "static/media/Comic_Book_Guy.png": "/intro-to-asyncronism-andresazcona/static/media/Comic_Book_Guy.d83dbfdaf62b3884ea9b.png",
+    "static/media/Milhouse.webp": "/intro-to-asyncronism-andresazcona/static/media/Milhouse.96c4a4acfd51feeb8535.webp",
+    "static/media/Homer.png": "/intro-to-asyncronism-andresazcona/static/media/Homer.cbd7ec48be1e6ba83c68.png",
+    "static/media/Waylon_Smithers.png": "/intro-to-asyncronism-andresazcona/static/media/Waylon_Smithers.859b18dc6e977f689552.png",
+    "static/media/Dr_Nick.png": "/intro-to-asyncronism-andresazcona/static/media/Dr_Nick.7731706217d8ee509fe7.png",
+    "static/media/Otto_Mann.webp": "/intro-to-asyncronism-andresazcona/static/media/Otto_Mann.bb743cd601fb02fa9c43.webp",
+    "static/media/Apu.png": "/intro-to-asyncronism-andresazcona/static/media/Apu.bb133f85f7b5fefb3fc2.png",
+    "static/media/MargeSimpson.webp": "/intro-to-asyncronism-andresazcona/static/media/MargeSimpson.e5d3c3f1df8982c88108.webp",
+    "static/media/Bart_Simpson.png": "/intro-to-asyncronism-andresazcona/static/media/Bart_Simpson.cfa369b39b5dd6795d7e.png",
+    "static/media/Duffman.png": "/intro-to-asyncronism-andresazcona/static/media/Duffman.def2bddd9144a5b2e73c.png",
+    "static/media/mr_burns.webp": "/intro-to-asyncronism-andresazcona/static/media/mr_burns.101e5882903eb02b71a5.webp",
+    "static/media/Rainier_Wolfcastle.png": "/intro-to-asyncronism-andresazcona/static/media/Rainier_Wolfcastle.a1693a9b2484b17bdbfa.png",
+    "static/media/Frank_Grimes.webp": "/intro-to-asyncronism-andresazcona/static/media/Frank_Grimes.15d101deaef5db827f82.webp",
+    "static/media/Mayor_Quimby.webp": "/intro-to-asyncronism-andresazcona/static/media/Mayor_Quimby.f3f9a99029df0ffcc20a.webp",
+    "index.html": "/intro-to-asyncronism-andresazcona/index.html",
+    "main.dd7c3c65.css.map": "/intro-to-asyncronism-andresazcona/static/css/main.dd7c3c65.css.map",
+    "main.a2422c36.js.map": "/intro-to-asyncronism-andresazcona/static/js/main.a2422c36.js.map",
+    "453.050414e1.chunk.js.map": "/intro-to-asyncronism-andresazcona/static/js/453.050414e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7c3c65.css",
+    "static/js/main.a2422c36.js"
+  ]
+}
