@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/intro-to-asyncronism-andresazcona/static/css/main.dd7c3c65.css",
-    "main.js": "/intro-to-asyncronism-andresazcona/static/js/main.a2422c36.js",
+    "main.css": "/intro-to-asyncronism-andresazcona/static/css/main.37dc09fa.css",
+    "main.js": "/intro-to-asyncronism-andresazcona/static/js/main.7531d3b6.js",
     "static/js/453.050414e1.chunk.js": "/intro-to-asyncronism-andresazcona/static/js/453.050414e1.chunk.js",
     "static/media/city_background.png": "/intro-to-asyncronism-andresazcona/static/media/city_background.bf536dda21a9eb40295a.png",
     "static/media/Abe_Simpson.png": "/intro-to-asyncronism-andresazcona/static/media/Abe_Simpson.c0a2960f83e3542c8d50.png",
@@ -29,12 +29,12 @@
     "static/media/Frank_Grimes.webp": "/intro-to-asyncronism-andresazcona/static/media/Frank_Grimes.15d101deaef5db827f82.webp",
     "static/media/Mayor_Quimby.webp": "/intro-to-asyncronism-andresazcona/static/media/Mayor_Quimby.f3f9a99029df0ffcc20a.webp",
     "index.html": "/intro-to-asyncronism-andresazcona/index.html",
-    "main.dd7c3c65.css.map": "/intro-to-asyncronism-andresazcona/static/css/main.dd7c3c65.css.map",
-    "main.a2422c36.js.map": "/intro-to-asyncronism-andresazcona/static/js/main.a2422c36.js.map",
+    "main.37dc09fa.css.map": "/intro-to-asyncronism-andresazcona/static/css/main.37dc09fa.css.map",
+    "main.7531d3b6.js.map": "/intro-to-asyncronism-andresazcona/static/js/main.7531d3b6.js.map",
     "453.050414e1.chunk.js.map": "/intro-to-asyncronism-andresazcona/static/js/453.050414e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd7c3c65.css",
-    "static/js/main.a2422c36.js"
+    "static/css/main.37dc09fa.css",
+    "static/js/main.7531d3b6.js"
   ]
 }
